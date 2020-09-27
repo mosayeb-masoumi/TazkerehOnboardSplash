@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SplashOnBoarding</string>
+    <string name="title_on_boarding_first_slide">یادآوری</string>
+
+    <string name="description_on_boarding_first_slide">تذکره یه یادآور مذهبی و محتوایی منحصر به فرده</string>
+
+    <string name="title_on_boarding_second_slide"> مذهبی گردی</string>
+
+    <string name="description_on_boarding_second_slide">و ابزاری برای اطلاع از رویدادهای مذهبی اطراف</string>
+
+    <string name="title_on_boarding_third_slide"> همگام سازی</string>
+
+    <string name="description_on_boarding_third_slide">همیشه هماهنگ و همه جا در دسترس</string>
+
+    <string name="title_button">ورود به برنامه</string>
+</resources>
